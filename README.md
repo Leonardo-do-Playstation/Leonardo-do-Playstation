@@ -58,9 +58,9 @@ Layouts modernos, responsivos e organizados, usando classes utilitárias e compo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-do-Playstation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-do-playstation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-do-Playstation&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-do-playstation&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
