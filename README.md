@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu perfil do GitHub
 
-<!--
-**Leonardo-do-Playstation/Leonardo-do-Playstation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com experiência em **Frontend e Backend**, sempre explorando novas tecnologias e me aprofundando no ecossistema Java e Angular.  
+Gosto de transformar ideias em projetos funcionais, bem estruturados e visualmente agradáveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo no dia a dia
+
+### 💻 **Linguagens & Frameworks**
+- **Java**
+- **Angular**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **C**
+- **SQL (nível básico)**
+
+### 🎨 **Ferramentas e Frameworks adicionais**
+- **Bootstrap** para criação de interfaces modernas e responsivas  
+- **Java Swing / GUI no NetBeans**  
+- **APIs REST (criação e consumo)**  
+
+### 🛠️ **Infraestrutura e DevOps**
+- **GitHub (controle de versão)**
+- **Docker (básico)**
+- **Amazon AWS (básico)**
+
+---
+
+## 📘 Projetos em Destaque
+
+### 🔹 **Sistema de Gerenciamento de Contatos (Frontend + Backend)**
+Aplicação completa com interface amigável, listagem, cadastro, edição e comunicação com API própria.
+
+### 🔹 **APIs desenvolvidas em Java**
+Criação de serviços REST para diferentes propósitos — desde CRUDs completos até integração com serviços externos.
+
+### 🔹 **Aplicação que consome APIs de CEP**
+Projeto integrado com serviços de consulta de CEP, exibindo dados de endereço automaticamente.
+
+### 🔹 **Projetos com Angular**
+Páginas dinâmicas, componentes reutilizáveis, serviços, rotas e consumo de APIs externas.
+
+### 🔹 **Interfaces gráficas com Java Swing (NetBeans GUI Builder)**
+Sistemas desktop com telas organizadas e interativas.
+
+### 🔹 **Projetos com Bootstrap**
+Layouts modernos, responsivos e organizados, usando classes utilitárias e componentes visuais.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** leooliveiraboff@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/leonardo-boff-697204309/ 
+
