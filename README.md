@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</p>
+
 # 👋 Olá! Seja bem-vindo ao meu perfil do GitHub
 
 Sou desenvolvedor com experiência em **Frontend e Backend**, sempre explorando novas tecnologias e me aprofundando no ecossistema Java e Angular.  
@@ -54,10 +58,17 @@ Layouts modernos, responsivos e organizados, usando classes utilitárias e compo
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-do-Playstation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-do-Playstation&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YWUpVw86Hn6Qf19iFJ/giphy.gif" width="250">
+</p>
 
 ---
 
