@@ -4,7 +4,7 @@
 
 # 👋 Olá! Seja bem-vindo ao meu perfil do GitHub
 
-Sou desenvolvedor com experiência em **Frontend e Backend**, sempre explorando novas tecnologias e me aprofundando no ecossistema Java e Angular.  
+Sou desenvolvedor com um pouco de experiência em **Backend** e também de **Front-end**, sempre explorando novas tecnologias e me aprofundando no ecossistema Java e Angular.  
 Gosto de transformar ideias em projetos funcionais, bem estruturados e visualmente agradáveis.
 
 ---
@@ -23,7 +23,8 @@ Gosto de transformar ideias em projetos funcionais, bem estruturados e visualmen
 ### 🎨 **Ferramentas e Frameworks adicionais**
 - **Bootstrap** para criação de interfaces modernas e responsivas  
 - **Java Swing / GUI no NetBeans**  
-- **APIs REST (criação e consumo)**  
+- **APIs REST (criação e consumo)**
+- **SpringBoot (Aplicações Java)**
 
 ### 🛠️ **Infraestrutura e DevOps**
 - **GitHub (controle de versão)**
