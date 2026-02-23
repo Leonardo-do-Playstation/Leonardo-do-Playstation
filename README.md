@@ -55,12 +55,6 @@ Layouts modernos, responsivos e organizados, usando classes utilitárias e compo
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YWUpVw86Hn6Qf19iFJ/giphy.gif" width="250">
-</p>
-
----
-
 ## 📫 Contato
 
 📧 **E-mail:** leooliveiraboff@gmail.com
