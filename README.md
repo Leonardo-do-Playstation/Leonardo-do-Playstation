@@ -1,5 +1,9 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil do GitHub
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</p>
+
 Sou desenvolvedor com experiência em Backend e Front-end, sempre explorando novas tecnologias e me aprofundando no ecossistema Java e Angular.  
 Gosto de transformar ideias em projetos funcionais, bem estruturados e visualmente agradáveis.
 
