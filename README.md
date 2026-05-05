@@ -67,6 +67,8 @@ Sistemas desktop com telas organizadas e interativas.
 ### 🔹 Projetos com Bootstrap
 Layouts modernos, responsivos e organizados.
 
+### 🔹 Sistema de Clínica Médica (React Native + Firebase)
+Aplicação mobile desenvolvida com React Native integrada ao Firebase, permitindo gerenciamento de funções básicas.
 ---
 
 ## 📫 Contato
